@@ -1,3 +1,5 @@
 # healthyfood
 
-Website about food
+Sample food website.
+Hosted on firebase:
+Link : https://healthyfoo.web.app/
